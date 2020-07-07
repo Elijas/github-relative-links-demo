@@ -1,3 +1,3 @@
-[absolute root](/root.md)
+[absolute root](/README.md)
 
-[relative root](../root.md)
+[relative root](../README.md)
